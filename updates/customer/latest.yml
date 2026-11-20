@@ -1,0 +1,8 @@
+version: 1.0.5
+files:
+  - url: https://github.com/jasundtv-maker/nadaverse-releases/releases/download/v1.0.5/NadaVerse-customer-1.0.5-x64.exe
+    sha512: gYnwFHDE7PK0IZDUOATaBJyXHIMY+YOxWygFAT6yHt+mFxM/CPVDsjsnHbtDY7npruiIaG8dRvmNnon93NAPlA==
+    size: 899170218
+path: https://github.com/jasundtv-maker/nadaverse-releases/releases/download/v1.0.5/NadaVerse-customer-1.0.5-x64.exe
+sha512: gYnwFHDE7PK0IZDUOATaBJyXHIMY+YOxWygFAT6yHt+mFxM/CPVDsjsnHbtDY7npruiIaG8dRvmNnon93NAPlA==
+releaseDate: '2026-11-20T18:17:20.732Z'
